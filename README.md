@@ -33,7 +33,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/assets/stand.gif" width="270" alt="JoJo Stand"/>
+<img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/jotaro-za-warudo.gif" width="270" alt="JoJo Stand"/>
 <br/>
 <sub><i>⭐ Star Platinum — The World</i></sub>
 
