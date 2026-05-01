@@ -1,29 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,100:00B4D8&height=220&section=header&text=Perry%20Takyi&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Cloud%20Enthusiast%20%7C%20Python%20%7C%20AI%2FML%20%7C%20AWS&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,100:00B4D8&height=220&section=header&text=Perry%20Takyi&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Cloud%20Enthusiast%20%7C%20TypeScript%20%7C%20Python%20%7C%20AWS&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&random=false&width=650&lines=☁️+Cloud+Enthusiast+%26+Builder;🐍+Python+%7C+JavaScript;🤖+Exploring+AI%2FML+%26+DevOps;⭐+Yare+yare+daze...+let%27s+get+to+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&random=false&width=650&lines=☁️+Cloud+Enthusiast+%26+Builder;🔷+TypeScript+%7C+Python+%7C+JavaScript;🤖+Exploring+AI%2FML+%26+DevOps;⭐+Yare+yare+daze...+let%27s+get+to+work" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<table border="0" align="center" cellspacing="0" cellpadding="10">
+<table border="0" align="center" cellspacing="0" cellpadding="16">
 <tr>
 <td width="55%" valign="top">
 
 ### ⭐ About Me
 
-🌩️ **Cloud Enthusiast** — always chasing the next horizon
-&nbsp;
-🐍 Building in **Python**, JavaScript & AWS
-&nbsp;
-🤖 Deep-diving into **AI/ML** and **DevOps** pipelines
-&nbsp;
-🔨 Currently building a [cloud news dashboard](https://github.com/AgentPierre/awscloudclub-uh-cloud-news) that auto-updates daily
-&nbsp;
-🎯 Next stop: AWS certifications & production AI apps
-&nbsp;
+🌩️ **Cloud Enthusiast** — always chasing the next horizon<br/>
+🔷 Building in **TypeScript**, Python & AWS<br/>
+🤖 Deep-diving into **AI/ML** and **DevOps** pipelines<br/>
+🔨 Main contributor of the [UH AWS Cloud Club website](https://github.com/uhawscloudclub/uhawscc)<br/>
+🎯 Next stop: AWS certifications & production AI apps<br/>
 🌀 Big fan of **JoJo's Bizarre Adventure** & Bleach
 
 <br/>
@@ -45,35 +40,43 @@
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=typescript,python,javascript&theme=dark" alt="Languages" />
+
+<br/>
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,github,git&theme=dark" alt="Cloud & DevOps" />
 
-**AI / ML**
-
-![Claude AI](https://img.shields.io/badge/Claude_AI-7B2D8B?style=for-the-badge&logo=anthropic&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-00B4D8?style=for-the-badge&logo=openai&logoColor=white)
+<br/>
 
 **Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vscode,nodejs&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+### 🔨 What I'm Building
+
+| Project | Stack | Status |
+|:---|:---|:---:|
+| [🌐 UH AWS Cloud Club Website](https://github.com/uhawscloudclub/uhawscc) | TypeScript · AWS | 🟢 Active |
+| [☁️ AWS Cloud News Dashboard](https://github.com/AgentPierre/awscloudclub-uh-cloud-news) | JavaScript · AWS · GitHub Actions | 🟢 Active |
+| [🐍 Python Learning Journey](https://github.com/AgentPierre/python-learning) | Python · AI-Assisted | 🟡 In Progress |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgentPierre&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=00B4D8&text_color=ffffff" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AgentPierre&theme=midnight-purple&hide_border=true&background=0D1117&ring=B721FF&fire=FFD700&currStreakLabel=00B4D8" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgentPierre&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=00B4D8&text_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AgentPierre&theme=midnight-purple&hide_border=true&background=0D1117&ring=B721FF&fire=FFD700&currStreakLabel=00B4D8" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -83,18 +86,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgentPierre&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B721FF&line=00B4D8&point=FFD700" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AgentPierre&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=4" alt="GitHub Trophies" />
 </div>
-
----
-
-### 🔨 What I'm Building
-
-| Project | Stack | Status |
-|---|---|---|
-| [🌐 UH AWS Cloud Club Website](https://github.com/uhawscloudclub/uhawscc) | TypeScript · AWS | 🟢 Active |
-| [☁️ AWS Cloud News Dashboard](https://github.com/AgentPierre/awscloudclub-uh-cloud-news) | JavaScript · AWS · GitHub Actions | 🟢 Active |
-| [🐍 Python Learning Journey](https://github.com/AgentPierre/python-learning) | Python · AI-Assisted | 🟡 In Progress |
 
 ---
 
