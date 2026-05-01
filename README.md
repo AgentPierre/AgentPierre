@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&random=false&width=650&lines=☁️+Cloud+Enthusiast+%26+Builder;🔷+TypeScript+%7C+Python+%7C+JavaScript;🤖+Exploring+AI%2FML+%26+DevOps;⭐+Yare+yare+daze...+let%27s+get+to+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&random=false&width=650&lines=Cloud+Enthusiast+%26+Builder;TypeScript+%7C+Python+%7C+JavaScript;Exploring+AI%2FML+%26+DevOps;Yare+yare+daze...+let%27s+get+to+work" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -75,12 +75,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgentPierre&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=00B4D8&text_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgentPierre&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=00B4D8&text_color=ffffff&cache_seconds=1800" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=AgentPierre&theme=midnight-purple&hide_border=true&background=0D1117&ring=B721FF&fire=FFD700&currStreakLabel=00B4D8" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentPierre&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentPierre&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&text_color=ffffff&cache_seconds=1800&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 <br/>
