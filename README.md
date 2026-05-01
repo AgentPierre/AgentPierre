@@ -49,10 +49,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -91,6 +92,7 @@
 
 | Project | Stack | Status |
 |---|---|---|
+| [🌐 UH AWS Cloud Club Website](https://github.com/uhawscloudclub/uhawscc) | TypeScript · AWS | 🟢 Active |
 | [☁️ AWS Cloud News Dashboard](https://github.com/AgentPierre/awscloudclub-uh-cloud-news) | JavaScript · AWS · GitHub Actions | 🟢 Active |
 | [🐍 Python Learning Journey](https://github.com/AgentPierre/python-learning) | Python · AI-Assisted | 🟡 In Progress |
 
