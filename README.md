@@ -75,12 +75,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgentPierre&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=00B4D8&text_color=ffffff&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AgentPierre&theme=midnight-purple&hide_border=true&background=0D1117&ring=B721FF&fire=FFD700&currStreakLabel=00B4D8" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentPierre&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B721FF&text_color=ffffff&cache_seconds=1800&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=AgentPierre&theme=midnight-purple&hide_border=true&background=0D1117&ring=B721FF&fire=FFD700&currStreakLabel=00B4D8&dates=ffffff&sideLabels=B721FF&stroke=7B2D8B" width="60%" alt="GitHub Streak" />
 </div>
 
 <br/>
