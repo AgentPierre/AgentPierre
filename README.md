@@ -68,7 +68,7 @@
 |:---|:---|:---:|
 | [🌐 UH AWS Cloud Club Website](https://github.com/uhawscloudclub/uhawscc) | TypeScript · AWS | 🟢 Active |
 | [☁️ AWS Cloud News Dashboard](https://github.com/AgentPierre/awscloudclub-uh-cloud-news) | JavaScript · AWS · GitHub Actions | 🟢 Active |
-| [🔍 PR Risk Analyzer](https://github.com/AgentPierre/pr-risk-analyzer) | Python · AI/ML | 🆕 New |
+| [🔍 PR Risk Analyzer](https://github.com/AgentPierre/pr-risk-analyzer) | Python · GitHub API · Claude API | 🆕 New |
 | [🐍 Python Learning Journey](https://github.com/AgentPierre/python-learning) | Python · AI-Assisted | 🟡 In Progress |
 
 ---
