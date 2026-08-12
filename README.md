@@ -8,34 +8,24 @@
 
 <br/>
 
-<table border="0" align="center" cellspacing="0" cellpadding="16">
-<tr>
-<td width="55%" valign="top">
-
 ### ⭐ About Me
 
-🎓 Computer Information Systems @ University of Houston — GPA 3.8, expected Dec 2026<br/>
-🛡️ DevSecOps & cloud engineering across 4 internships at **Williams**, **Baker Hughes** & **Puffer-Sweiven**<br/>
-🔐 Built an Azure DevOps pipeline decorator (CodeQL + dependency scanning) that surfaced 200+ vulnerabilities org-wide<br/>
-🚀 President of the [AWS Student Builder Group @ UH](https://github.com/uhawscloudclub/uhawscc) — grew it to 100+ members, helped 40+ earn AWS certs<br/>
-☁️ AWS Certified Cloud Practitioner · AWS AI Practitioner (in progress)
+| | |
+|:---|:---|
+| 🎓 **Education** | B.S. Computer Information Systems, University of Houston · GPA 3.8 · Expected Dec 2026 |
+| 💼 **Experience** | 4 internships in DevSecOps & cloud engineering — **Williams**, **Baker Hughes**, **Puffer-Sweiven** |
+| 🔐 **Highlight** | Built an Azure DevOps pipeline decorator (CodeQL + dependency scanning) that surfaced 200+ vulnerabilities org-wide |
+| 🚀 **Leadership** | President, [AWS Student Builder Group @ UH](https://github.com/uhawscloudclub/uhawscc) — grew it to 100+ members, helped 40+ earn AWS certs |
+| 📜 **Certifications** | AWS Certified Cloud Practitioner · AWS AI Practitioner (in progress) |
+| 🛠️ **Core Skills** | Python · TypeScript · AWS · Azure · Terraform · Docker · GitHub Actions · FastAPI |
 
-<br/>
+<div align="center">
 
 > *"Yare yare daze... Good grief, there's so much to build."*
 
 <sub>🌀 Fun fact: big fan of **JoJo's Bizarre Adventure**</sub>
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/jotaro-za-warudo.gif" width="270" alt="JoJo Stand"/>
-<br/>
-<sub><i>⭐ Star Platinum — The World</i></sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
