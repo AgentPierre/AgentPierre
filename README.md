@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,100:00B4D8&height=220&section=header&text=Perry%20Takyi&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DevSecOps%20%7C%20Cloud%20Engineering%20%7C%20AWS%20%26%20Azure&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/banner-header.png" width="100%" alt="Perry Takyi — DevSecOps | Cloud Engineering | AWS & Azure" />
 </div>
 
 <div align="center">
@@ -117,5 +117,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:7B2D8B&height=120&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/banner-footer.png" width="100%" alt="" />
 </div>
