@@ -19,7 +19,7 @@
 🔐 Built an Azure DevOps pipeline decorator (CodeQL + dependency scanning) that surfaced 200+ vulnerabilities org-wide<br/>
 🚀 President of the [AWS Student Builder Group @ UH](https://github.com/uhawscloudclub/uhawscc) — grew it to 100+ members, helped 40+ earn AWS certs<br/>
 ☁️ AWS Certified Cloud Practitioner · AWS AI Practitioner (in progress)<br/>
-🌀 Big fan of **JoJo's Bizarre Adventure** & Bleach
+🌀 Big fan of **JoJo's Bizarre Adventure** 
 
 <br/>
 
