@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,100:00B4D8&height=220&section=header&text=Perry%20Takyi&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DevSecOps%20%7C%20Cloud%20Engineering%20%7C%20AWS%20%26%20Azure&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/banner-header.png" width="100%" alt="Perry Takyi — DevSecOps | Cloud Engineering | AWS & Azure" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&random=false&width=650&lines=DevSecOps+%26+Cloud+Engineering+Intern;Python+%7C+TypeScript+%7C+Terraform+%7C+Docker;Securing+CI%2FCD+with+GHAS+%26+CodeQL;Yare+yare+daze...+let%27s+get+to+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&random=false&width=650&lines=DevSecOps+%26+Cloud+Engineering+Intern;Python+%7C+TypeScript+%7C+Terraform+%7C+Docker;Securing+CI%2FCD+with+GHAS+%26+CodeQL;Always+building%2C+always+learning" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,12 +18,13 @@
 🛡️ DevSecOps & cloud engineering across 4 internships at **Williams**, **Baker Hughes** & **Puffer-Sweiven**<br/>
 🔐 Built an Azure DevOps pipeline decorator (CodeQL + dependency scanning) that surfaced 200+ vulnerabilities org-wide<br/>
 🚀 President of the [AWS Student Builder Group @ UH](https://github.com/uhawscloudclub/uhawscc) — grew it to 100+ members, helped 40+ earn AWS certs<br/>
-☁️ AWS Certified Cloud Practitioner · AWS AI Practitioner (in progress)<br/>
-🌀 Big fan of **JoJo's Bizarre Adventure** 
+☁️ AWS Certified Cloud Practitioner · AWS AI Practitioner (in progress)
 
 <br/>
 
 > *"Yare yare daze... Good grief, there's so much to build."*
+
+<sub>🌀 Fun fact: big fan of **JoJo's Bizarre Adventure**</sub>
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -70,7 +71,12 @@
 
 ### 📌 Featured Project
 
-**[🔍 PR Risk Analyzer](https://github.com/AgentPierre/pr-risk-analyzer)** — a Python CLI that pulls open PRs from any GitHub repo via the GitHub REST API and uses the Claude API to classify each as LOW/MEDIUM/HIGH risk with a plain-English summary. Containerized with Docker, deployed to Azure (Key Vault, Container Registry, Container Instances, Log Analytics) via Terraform with remote state, and shipped through a GitHub Actions pipeline that tests, applies infra changes, builds, pushes to ACR, and deploys on every push. Validated against 10 PRs across 3 open-source repos with a pytest suite (46% overall, 100% on core risk-analysis logic).
+**[🔍 PR Risk Analyzer](https://github.com/AgentPierre/pr-risk-analyzer)** — a Python CLI that pulls open PRs from any GitHub repo via the GitHub REST API and uses the Claude API to classify each as LOW/MEDIUM/HIGH risk with a plain-English summary.
+
+- 🐳 Containerized with Docker
+- ☁️ Deployed to Azure (Key Vault, Container Registry, Container Instances, Log Analytics) via Terraform with remote state
+- 🔁 Shipped through a GitHub Actions pipeline that tests, applies infra changes, builds, pushes to ACR, and deploys on every push
+- ✅ Validated against 10 PRs across 3 open-source repos with a pytest suite (46% overall, 100% on core risk-analysis logic)
 
 ---
 
@@ -112,10 +118,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AgentPierre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgentPierre)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perry%20Takyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perry-takyi/)
-[![Email](https://img.shields.io/badge/Email-perrytakyi03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perrytakyi03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perrytakyi03@gmail.com)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:7B2D8B&height=120&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/AgentPierre/AgentPierre/main/banner-footer.png" width="100%" alt="" />
 </div>
